@@ -12,3 +12,6 @@ elif answer=="fish":
     print("Now you have to make a Fishing rod to fish")
 else:
     print("Enter a valid answer")
+
+
+print("You lost !")
